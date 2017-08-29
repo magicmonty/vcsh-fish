@@ -1,0 +1,1 @@
+/Users/martingondermann/.config/fisherman/brew-completions/completions/brew.fish
