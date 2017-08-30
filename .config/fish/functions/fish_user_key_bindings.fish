@@ -5,6 +5,7 @@ function fish_user_key_bindings
     or set -l FZF_LEGACY_KEYBINDINGS 1
     if test "$FZF_LEGACY_KEYBINDINGS" -eq 1
         bind \ct '__fzf_find_file'
+        bind \cr '__fzf_reverse_isearch'
         bind \cx '__fzf_find_and_execute'
         bind \ec '__fzf_cd'
         bind \eC '__fzf_cd_with_hidden'
@@ -31,11 +32,10 @@ function fish_user_key_bindings
     end
     ### fzf ###
 
-
-  bind \cl 'clear; commandline -f repaint'
-  bind \cu backward-kill-line
-  bind \cr search_history
-  bind -M insert \co edit_config_fish
-  bind \co edit_config_fish
-
+    bind \cl 'clear; commandline -f repaint'
+    bind \cu backward-kill-line
+    bind \cr search_history
+    bind -M insert \cr search_history
+    bind -M insert \co edit_config_fish
+    bind \co edit_config_fish
 end

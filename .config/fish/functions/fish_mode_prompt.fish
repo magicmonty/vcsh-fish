@@ -1,1 +1,3 @@
-/Users/martingondermann/.config/fisherman/bobthefish/fish_mode_prompt.fish
+function fish_mode_prompt --description "Overwrite display of mode"
+  # my prompt takes care of this
+end
