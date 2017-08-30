@@ -1,1 +1,1 @@
-/Users/martingondermann/.local/share/omf/themes/bobthefish/fish_prompt.fish
+/Users/martingondermann/.config/fisherman/bobthefish/fish_prompt.fish

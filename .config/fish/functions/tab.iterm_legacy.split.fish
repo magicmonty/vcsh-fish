@@ -1,0 +1,1 @@
+/Users/martingondermann/.config/fisherman/tab/functions/tab.iterm_legacy.split.fish

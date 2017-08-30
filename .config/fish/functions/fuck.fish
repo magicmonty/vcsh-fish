@@ -1,0 +1,1 @@
+/Users/martingondermann/.config/fisherman/thefuck/functions/fuck.fish

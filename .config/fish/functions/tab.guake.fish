@@ -1,0 +1,1 @@
+/Users/martingondermann/.config/fisherman/tab/functions/tab.guake.fish

@@ -1,0 +1,1 @@
+/Users/martingondermann/.config/fisherman/osx/functions/flushdns.fish
