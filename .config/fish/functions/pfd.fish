@@ -1,1 +1,0 @@
-/Users/martingondermann/.config/fisherman/osx/functions/pfd.fish

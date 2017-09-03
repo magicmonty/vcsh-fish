@@ -1,1 +1,0 @@
-/Users/martingondermann/.config/fisherman/await/functions/await.fish

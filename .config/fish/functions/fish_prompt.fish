@@ -1,1 +1,0 @@
-/Users/martingondermann/.config/fisherman/bobthefish/fish_prompt.fish
